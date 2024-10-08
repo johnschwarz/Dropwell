@@ -1,0 +1,13 @@
+res://default_bus_layout.tres
+res://Scenes/master.tscn
+res://Scripts/spike.gd
+res://Scenes/life_flash.gdshader
+res://Scenes/maintheme.tres
+res://Scenes/trail.gdshader
+res://Scenes/player.tscn
+res://Scenes/Enemy/arm_length_path.tscn
+res://Scenes/Enemy/frog.tscn
+res://Scenes/boss_trigger.tscn
+res://Scenes/Enemy/boss_1.tscn
+res://Scenes/Enemy/spore.tscn
+res://Scenes/object_pooler.tscn
